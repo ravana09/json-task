@@ -1,0 +1,50 @@
+{
+    "basics": {
+        "name": "Pradeep s",
+        "label": "Entry Level Software Develop",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am Pradeep , I am fresher in IT filed and seeking for my first experience",
+        "email": "pradeep09sathish@gmail.com",
+        "location": {
+            "city": "salem",
+            "state": "Tamil nadu"
+        }
+    },
+
+    "studeies ": [
+        {
+           
+            "Institue Name": "Excel college of Health science",
+            "Course Name": "Diploma in Health inspector ",
+            "percentage ": "76 %"
+        },
+        {
+           
+            "Institue Name": "bharadidasan University - trichy",
+            "Course Name": "B.sc - chemistry ",
+            "percentage ": "76 %"
+        },
+        {
+            "Institue Name": "GUVI",
+            "Course Name": "full stack development "
+
+        }
+     
+    ],
+    "Experience ": [
+        {
+            "Health Inspector ": "Experience of 2 years in Health inspectopr  at Nagalur primary Health center - yercaud "
+        }
+       
+    ],
+    
+     "Sklills":[
+           { 
+            "FRONT END SKILLS " : "HTML, CSS , JAVASCRIPT , REACTJJ ",
+             "BACK END SKILLS "  :"SQL ,NODEJS,EXPERCE JS,MY SQL,AWS"
+        
+        }
+
+     ]
+    
+}
