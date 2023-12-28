@@ -12,6 +12,7 @@
   let countryValues = Object.values(country)
   
   // for loop
+//console.log("------------ forloop_______________")
 
   for(let i=0;i<countryKey.length;i++){
     console.log(` Name of the country : ${countryKey[i]},
@@ -22,6 +23,7 @@
 
   // for in
 
+//console.log("------------ for in_______________")
   for(key in country){
     console.log(`
     name opf the country :${key},
@@ -31,7 +33,7 @@
   }
 
   // for each
-  console.log("------------ for each_______________")
+ // console.log("------------ for each_______________")
 
   countryKey.forEach((values ) => {
     console.log(` 
@@ -43,9 +45,9 @@
 
   // for off
 
-  //let countryKey =Object.keys(country);
 
-  console.log("---------------for off----------------")
+
+  //console.log("---------------for off----------------")
   for(key of countryKey){
     console.log(`
     name opf the country :${key},
